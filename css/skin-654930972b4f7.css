@@ -1050,7 +1050,7 @@ a.fl-button:hover,
 }
 a.fl-button *,
 a.fl-button:visited * {
-  color: #000;
+  color: #ffffff;
 }
 a.fl-button:hover * {
   color: #fff;
